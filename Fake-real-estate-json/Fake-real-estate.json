@@ -10,7 +10,7 @@
     "is_featured": true,
     "location": "Downtown, City Center",
     "facilities": ["living room", "swimming pool", "Kitchen"],
-    "image": "https://example.com/images/2bhk_apartment.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/2bhk_apartment.jpg"
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
     "is_featured": false,
     "location": "Uptown, City Center",
     "facilities": ["living room", "Kitchen"],
-    "image": "https://example.com/images/3bhk_apartment.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/3bhk_apartment.jpg"
   },
   {
     "id": 3,
@@ -41,7 +41,7 @@
       "Kitchen",
       "private elevator"
     ],
-    "image": "https://example.com/images/luxury_penthouse.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/luxury_penthouse.jpg"
   },
   {
     "id": 4,
@@ -54,7 +54,7 @@
     "is_featured": false,
     "location": "City Suburbs",
     "facilities": ["living room", "Kitchen"],
-    "image": "https://example.com/images/studio_apartment.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/studio_apartment.jpg"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "is_featured": true,
     "location": "Quiet Suburb",
     "facilities": ["living room", "Kitchen", "garden"],
-    "image": "https://example.com/images/family_home.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/family_home.jpg"
   },
   {
     "id": 6,
@@ -80,7 +80,7 @@
     "is_featured": false,
     "location": "Countryside",
     "facilities": ["living room", "Kitchen", "garden"],
-    "image": "https://example.com/images/countryside_house.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/countryside_house.jpg"
   },
   {
     "id": 7,
@@ -93,7 +93,7 @@
     "is_featured": true,
     "location": "Urban Center",
     "facilities": ["living room", "Kitchen"],
-    "image": "https://example.com/images/duplex_apartment.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/duplex_apartment.jpg"
   },
   {
     "id": 8,
@@ -106,7 +106,7 @@
     "is_featured": false,
     "location": "Lakeside",
     "facilities": ["living room", "Kitchen", "fireplace"],
-    "image": "https://example.com/images/lakefront_cabin.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/lakefront_cabin.jpg"
   },
   {
     "id": 9,
@@ -119,7 +119,7 @@
     "is_featured": false,
     "location": "City Center",
     "facilities": ["living room", "Kitchen", "gym"],
-    "image": "https://example.com/images/modern_condo.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/modern_condo.jpg"
   },
   {
     "id": 10,
@@ -132,7 +132,7 @@
     "is_featured": true,
     "location": "Historical District",
     "facilities": ["living room", "Kitchen", "garden", "library"],
-    "image": "https://example.com/images/historic_mansion.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/historic_mansion.jpg"
   },
   {
     "id": 11,
@@ -145,7 +145,7 @@
     "is_featured": false,
     "location": "Warehouse District",
     "facilities": ["living room", "Kitchen"],
-    "image": "https://example.com/images/city_loft.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/city_loft.jpg"
   },
   {
     "id": 12,
@@ -158,7 +158,7 @@
     "is_featured": false,
     "location": "Eco Community",
     "facilities": ["living room", "Kitchen", "solar panels"],
-    "image": "https://example.com/images/eco_apartment.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/eco_apartment.jpg"
   },
   {
     "id": 13,
@@ -171,7 +171,7 @@
     "is_featured": true,
     "location": "City Center",
     "facilities": ["parking space"],
-    "image": "https://example.com/images/retail_space.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/retail_space.jpg"
   },
   {
     "id": 14,
@@ -184,7 +184,7 @@
     "is_featured": true,
     "location": "Business District",
     "facilities": ["conference rooms", "elevators", "parking"],
-    "image": "https://example.com/images/office_building.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/office_building.jpg"
   },
   {
     "id": 15,
@@ -197,7 +197,7 @@
     "is_featured": false,
     "location": "Industrial Area",
     "facilities": ["loading docks", "security system"],
-    "image": "https://example.com/images/warehouse.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/warehouse.jpg"
   },
   {
     "id": 16,
@@ -210,7 +210,7 @@
     "is_featured": true,
     "location": "Downtown",
     "facilities": ["kitchen equipment", "outdoor seating"],
-    "image": "https://example.com/images/restaurant_space.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/restaurant_space.jpg"
   },
   {
     "id": 17,
@@ -223,7 +223,7 @@
     "is_featured": false,
     "location": "Healthcare Hub",
     "facilities": ["reception area", "parking lot"],
-    "image": "https://example.com/images/medical_office.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/medical_office.jpg"
   },
   {
     "id": 18,
@@ -236,7 +236,7 @@
     "is_featured": true,
     "location": "Tech Park",
     "facilities": ["meeting rooms", "high-speed internet", "cafeteria"],
-    "image": "https://example.com/images/coworking_space.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/coworking_space.jpg"
   },
   {
     "id": 19,
@@ -249,7 +249,7 @@
     "is_featured": false,
     "location": "Rural Area",
     "facilities": ["water", "irrigation system"],
-    "image": "https://example.com/images/agricultural_land.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/agricultural_land.jpg"
   },
   {
     "id": 20,
@@ -262,7 +262,7 @@
     "is_featured": true,
     "location": "City Center",
     "facilities": ["road access", "electricity"],
-    "image": "https://example.com/images/commercial_plot.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/commercial_plot.jpg"
   },
   {
     "id": 21,
@@ -275,7 +275,7 @@
     "is_featured": true,
     "location": "Suburban Area",
     "facilities": ["sewage system", "electricity", "water"],
-    "image": "https://example.com/images/residential_land.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/residential_land.jpg"
   },
   {
     "id": 22,
@@ -288,7 +288,7 @@
     "is_featured": false,
     "location": "Industrial Zone",
     "facilities": ["road access", "power grid"],
-    "image": "https://example.com/images/industrial_land.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/industrial_land.jpg"
   },
   {
     "id": 23,
@@ -301,7 +301,7 @@
     "is_featured": true,
     "location": "Coastal Area",
     "facilities": ["private access", "scenic views"],
-    "image": "https://example.com/images/beachfront_land.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/beachfront_land.jpg"
   },
   {
     "id": 24,
@@ -314,7 +314,7 @@
     "is_featured": false,
     "location": "Forest Area",
     "facilities": ["natural water source", "trails"],
-    "image": "https://example.com/images/forest_land.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/forest_land.jpg"
   },
   {
     "id": 25,
@@ -327,7 +327,7 @@
     "is_featured": true,
     "location": "Seaside",
     "facilities": ["living room", "swimming pool", "kitchen", "garden"],
-    "image": "https://example.com/images/seaside_villa.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/seaside_villa.jpg"
   },
   {
     "id": 26,
@@ -345,7 +345,7 @@
       "private elevator",
       "home theater"
     ],
-    "image": "https://example.com/images/skyline_penthouse.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/skyline_penthouse.jpg"
   },
   {
     "id": 27,
@@ -358,7 +358,7 @@
     "is_featured": false,
     "location": "Countryside",
     "facilities": ["wine cellar", "tennis court", "library", "pool house"],
-    "image": "https://example.com/images/countryside_mansion.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/countryside_mansion.jpg"
   },
   {
     "id": 28,
@@ -371,7 +371,7 @@
     "is_featured": true,
     "location": "Tropical Island",
     "facilities": ["spa", "infinity pool", "outdoor kitchen", "sun deck"],
-    "image": "https://example.com/images/tropical_retreat.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/tropical_retreat.jpg"
   },
   {
     "id": 29,
@@ -384,7 +384,7 @@
     "is_featured": false,
     "location": "Coastal Area",
     "facilities": ["private dock", "outdoor shower", "fire pit", "guest house"],
-    "image": "https://example.com/images/oceanfront_paradise.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/oceanfront_paradise.jpg"
   },
   {
     "id": 30,
@@ -402,6 +402,6 @@
       "balcony",
       "smart home system"
     ],
-    "image": "https://example.com/images/urban_oasis.jpg"
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/Fake-real-estate-json/assets/urban_oasis.jpg"
   }
 ]
