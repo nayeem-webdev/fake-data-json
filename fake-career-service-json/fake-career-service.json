@@ -1,0 +1,30 @@
+[
+    {
+        "image": "a relevant Image",
+        "id" : 1,
+        "serviceID" :  "career-counseling-sessions-1"
+        "serviceName" : "Career Counseling Sessions”,
+        "category" : "online",
+        "briefDescription" : "a brif description of service",
+        "price" : 300,
+        "dateTime" "05-12-24 5-6pm",
+        "counselor" : "Jhon Haris",
+        "rating" : 4.3 , 
+        You can add other information for each data if you want
+        
+    },
+    {
+        "image": "a relevant Image",
+        "id" : 2,
+        "serviceID" :  "resume-review-2"
+        "serviceName" : "Resume Review",
+        "Category" : "offline"
+        "briefDescription" : "a brif description of service",
+        "price" : 150,
+        "dateTime" "07-12-24 2-3pm",
+        "counselor" : "Donand Trump",
+        "rating" : 4.5, 
+        You can add other information for each data if you want
+
+    }
+]
