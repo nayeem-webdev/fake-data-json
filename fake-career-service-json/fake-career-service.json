@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/career-counseling-sessions-1.png",
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/career-counseling-sessions-1.jpeg",
     "id": 1,
     "serviceID": "career-counseling-sessions-1",
     "serviceName": "Career Counseling Sessions",
@@ -12,9 +12,9 @@
     "rating": 4.3
   },
   {
-    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/resume-review-2.png",
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/resume-review-2.jpeg",
     "id": 2,
-    "serviceID": "resume-review-2",
+    "serviceID": "resume-review-2resume-review-2",
     "serviceName": "Resume Review",
     "category": "offline",
     "briefDescription": "Detailed feedback on your resume to improve content and design.",
@@ -24,7 +24,7 @@
     "rating": 4.5
   },
   {
-    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/mock-interview-3.png",
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/mock-interview-3.jpeg",
     "id": 3,
     "serviceID": "mock-interview-3",
     "serviceName": "Mock Interview",
@@ -36,7 +36,7 @@
     "rating": 4.7
   },
   {
-    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/career-planning-4.png",
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/career-planning-4.jpeg",
     "id": 4,
     "serviceID": "career-planning-4",
     "serviceName": "Career Planning Workshop",
@@ -48,7 +48,7 @@
     "rating": 4.8
   },
   {
-    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/networking-secrets-5.png",
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/networking-secrets-5.jpeg",
     "id": 5,
     "serviceID": "networking-secrets-5",
     "serviceName": "Networking Secrets",
@@ -60,7 +60,7 @@
     "rating": 4.6
   },
   {
-    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/cover-letter-tips-6.png",
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/cover-letter-tips-6.jpeg",
     "id": 6,
     "serviceID": "cover-letter-tips-6",
     "serviceName": "Cover Letter Tips",
@@ -72,7 +72,7 @@
     "rating": 4.4
   },
   {
-    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/linkedin-profile-7.png",
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/linkedin-profile-7.jpeg",
     "id": 7,
     "serviceID": "linkedin-profile-7",
     "serviceName": "LinkedIn Profile Optimization",
@@ -84,7 +84,7 @@
     "rating": 4.2
   },
   {
-    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/negotiation-skills-8.png",
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/negotiation-skills-8.jpeg",
     "id": 8,
     "serviceID": "negotiation-skills-8",
     "serviceName": "Salary Negotiation Skills",
@@ -96,7 +96,7 @@
     "rating": 4.9
   },
   {
-    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/personal-branding-9.png",
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/personal-branding-9.jpeg",
     "id": 9,
     "serviceID": "personal-branding-9",
     "serviceName": "Personal Branding Masterclass",
