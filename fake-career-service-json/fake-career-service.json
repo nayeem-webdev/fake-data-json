@@ -1,30 +1,110 @@
 [
-    {
-        "image": "a relevant Image",
-        "id" : 1,
-        "serviceID" :  "career-counseling-sessions-1"
-        "serviceName" : "Career Counseling Sessions”,
-        "category" : "online",
-        "briefDescription" : "a brif description of service",
-        "price" : 300,
-        "dateTime" "05-12-24 5-6pm",
-        "counselor" : "Jhon Haris",
-        "rating" : 4.3 , 
-        You can add other information for each data if you want
-        
-    },
-    {
-        "image": "a relevant Image",
-        "id" : 2,
-        "serviceID" :  "resume-review-2"
-        "serviceName" : "Resume Review",
-        "Category" : "offline"
-        "briefDescription" : "a brif description of service",
-        "price" : 150,
-        "dateTime" "07-12-24 2-3pm",
-        "counselor" : "Donand Trump",
-        "rating" : 4.5, 
-        You can add other information for each data if you want
-
-    }
+  {
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/career-counseling-sessions-1.png",
+    "id": 1,
+    "serviceID": "career-counseling-sessions-1",
+    "serviceName": "Career Counseling Sessions",
+    "category": "online",
+    "briefDescription": "One-on-one sessions to help explore career paths and plan your professional journey.",
+    "price": 300,
+    "dateTime": "05-12-24 5-6pm",
+    "counselor": "John Harris",
+    "rating": 4.3
+  },
+  {
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/resume-review-2.png",
+    "id": 2,
+    "serviceID": "resume-review-2",
+    "serviceName": "Resume Review",
+    "category": "offline",
+    "briefDescription": "Detailed feedback on your resume to improve content and design.",
+    "price": 150,
+    "dateTime": "07-12-24 2-3pm",
+    "counselor": "Donald Trump",
+    "rating": 4.5
+  },
+  {
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/mock-interview-3.png",
+    "id": 3,
+    "serviceID": "mock-interview-3",
+    "serviceName": "Mock Interview",
+    "category": "online",
+    "briefDescription": "Practice interviews with real-time feedback to help you excel in job interviews.",
+    "price": 200,
+    "dateTime": "08-12-24 4-5pm",
+    "counselor": "Anna Lee",
+    "rating": 4.7
+  },
+  {
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/career-planning-4.png",
+    "id": 4,
+    "serviceID": "career-planning-4",
+    "serviceName": "Career Planning Workshop",
+    "category": "offline",
+    "briefDescription": "Comprehensive planning strategies to help you achieve your career goals.",
+    "price": 350,
+    "dateTime": "09-12-24 10am-12pm",
+    "counselor": "Emily Carter",
+    "rating": 4.8
+  },
+  {
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/networking-secrets-5.png",
+    "id": 5,
+    "serviceID": "networking-secrets-5",
+    "serviceName": "Networking Secrets",
+    "category": "online",
+    "briefDescription": "Learn effective networking skills to expand your professional circle.",
+    "price": 180,
+    "dateTime": "10-12-24 6-7pm",
+    "counselor": "Robert Chang",
+    "rating": 4.6
+  },
+  {
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/cover-letter-tips-6.png",
+    "id": 6,
+    "serviceID": "cover-letter-tips-6",
+    "serviceName": "Cover Letter Tips",
+    "category": "online",
+    "briefDescription": "Craft compelling cover letters tailored to specific job roles.",
+    "price": 100,
+    "dateTime": "11-12-24 3-4pm",
+    "counselor": "Samantha Green",
+    "rating": 4.4
+  },
+  {
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/linkedin-profile-7.png",
+    "id": 7,
+    "serviceID": "linkedin-profile-7",
+    "serviceName": "LinkedIn Profile Optimization",
+    "category": "online",
+    "briefDescription": "Optimize your LinkedIn profile to attract recruiters and opportunities.",
+    "price": 130,
+    "dateTime": "12-12-24 1-2pm",
+    "counselor": "Mark Williams",
+    "rating": 4.2
+  },
+  {
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/negotiation-skills-8.png",
+    "id": 8,
+    "serviceID": "negotiation-skills-8",
+    "serviceName": "Salary Negotiation Skills",
+    "category": "offline",
+    "briefDescription": "Learn how to negotiate your salary and benefits effectively.",
+    "price": 250,
+    "dateTime": "13-12-24 5-7pm",
+    "counselor": "Jessica Park",
+    "rating": 4.9
+  },
+  {
+    "image": "https://raw.githubusercontent.com/nayeem-webdev/fake-data-json/refs/heads/main/fake-career-service-json/assets/personal-branding-9.png",
+    "id": 9,
+    "serviceID": "personal-branding-9",
+    "serviceName": "Personal Branding Masterclass",
+    "category": "online",
+    "briefDescription": "Develop your unique professional brand to stand out in the job market.",
+    "price": 400,
+    "dateTime": "14-12-24 6-8pm",
+    "counselor": "Daniel Smith",
+    "rating": 5.0
+  }
 ]
