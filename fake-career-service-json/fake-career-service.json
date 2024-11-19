@@ -6,6 +6,13 @@
     "serviceName": "Career Counseling Sessions",
     "category": "online",
     "briefDescription": "One-on-one sessions to help explore career paths and plan your professional journey.",
+    "fullDescription": "Career Counseling Sessions are designed to help individuals discover their ideal career path, set professional goals, and plan the steps to reach them. Whether you're just starting your career, transitioning to a new field, or seeking career advancement, these sessions will provide personalized guidance to clarify your aspirations and help you make informed decisions.",
+    "features": [
+      "Personalized one-on-one counseling",
+      "Guidance on career exploration and decision-making",
+      "Goal-setting strategies for long-term success",
+      "Actionable steps to achieve career growth"
+    ],
     "price": 300,
     "dateTime": "05-12-24 5-6pm",
     "counselor": "John Harris",
@@ -18,6 +25,13 @@
     "serviceName": "Resume Review",
     "category": "offline",
     "briefDescription": "Detailed feedback on your resume to improve content and design.",
+    "fullDescription": "In this service, a professional career coach will review your resume, focusing on its content, formatting, and design. You will receive expert feedback on how to enhance your resume’s effectiveness, ensuring it stands out to recruiters and hiring managers. This session will also offer tips for showcasing your skills, experience, and achievements more clearly.",
+    "features": [
+      "Comprehensive resume review",
+      "Feedback on layout, formatting, and design",
+      "Tips for improving content to highlight key skills",
+      "Advice on tailoring resumes for specific industries"
+    ],
     "price": 150,
     "dateTime": "07-12-24 2-3pm",
     "counselor": "Donald Trump",
@@ -30,6 +44,13 @@
     "serviceName": "Mock Interview",
     "category": "online",
     "briefDescription": "Practice interviews with real-time feedback to help you excel in job interviews.",
+    "fullDescription": "A mock interview session designed to help you prepare for real-life job interviews. During the session, you will participate in a simulated interview where you can practice answering common and role-specific questions. Afterward, you will receive detailed feedback on your performance, including tips for improving your responses, body language, and overall presentation.",
+    "features": [
+      "Simulated interview with role-specific questions",
+      "Real-time feedback on your responses",
+      "Suggestions for improving communication and presentation",
+      "Confidence-building techniques for interview success"
+    ],
     "price": 200,
     "dateTime": "08-12-24 4-5pm",
     "counselor": "Anna Lee",
@@ -42,6 +63,13 @@
     "serviceName": "Career Planning Workshop",
     "category": "offline",
     "briefDescription": "Comprehensive planning strategies to help you achieve your career goals.",
+    "fullDescription": "The Career Planning Workshop offers a structured approach to help you develop a clear roadmap for your career. Through interactive exercises and expert guidance, you will learn how to assess your skills, identify growth opportunities, and set realistic, measurable goals. This workshop is ideal for individuals at any career stage who want to take charge of their professional development.",
+    "features": [
+      "Interactive career planning exercises",
+      "Actionable goal-setting strategies",
+      "Tools to assess strengths and weaknesses",
+      "Personalized advice for career advancement"
+    ],
     "price": 350,
     "dateTime": "09-12-24 10am-12pm",
     "counselor": "Emily Carter",
@@ -54,6 +82,13 @@
     "serviceName": "Networking Secrets",
     "category": "online",
     "briefDescription": "Learn effective networking skills to expand your professional circle.",
+    "fullDescription": "In this session, you'll gain valuable insights into effective networking strategies. From making meaningful connections to leveraging social media for career growth, you’ll learn the techniques and best practices that successful professionals use to expand their networks and open up new opportunities.",
+    "features": [
+      "Strategies for building and maintaining a professional network",
+      "Effective use of LinkedIn and other social media platforms",
+      "Tips for approaching industry events and conferences",
+      "Ways to make a lasting impression and cultivate relationships"
+    ],
     "price": 180,
     "dateTime": "10-12-24 6-7pm",
     "counselor": "Robert Chang",
@@ -66,6 +101,13 @@
     "serviceName": "Cover Letter Tips",
     "category": "online",
     "briefDescription": "Craft compelling cover letters tailored to specific job roles.",
+    "fullDescription": "This service will guide you through the process of writing a personalized, compelling cover letter that complements your resume. You’ll learn how to highlight your skills, qualifications, and experience in a way that aligns with the specific requirements of the job you’re applying for, increasing your chances of landing an interview.",
+    "features": [
+      "Step-by-step guidance on writing a cover letter",
+      "Tips for tailoring your letter to specific job descriptions",
+      "Advice on showcasing your achievements and skills",
+      "Expert feedback to refine your cover letter"
+    ],
     "price": 100,
     "dateTime": "11-12-24 3-4pm",
     "counselor": "Samantha Green",
@@ -78,6 +120,13 @@
     "serviceName": "LinkedIn Profile Optimization",
     "category": "online",
     "briefDescription": "Optimize your LinkedIn profile to attract recruiters and opportunities.",
+    "fullDescription": "This service focuses on optimizing your LinkedIn profile to increase your visibility and appeal to recruiters. You’ll receive expert advice on how to craft an attention-grabbing headline, summary, and job experience descriptions, along with tips on how to make your profile more search-friendly for potential employers.",
+    "features": [
+      "Optimization of headline, summary, and experience sections",
+      "Personal branding tips for LinkedIn",
+      "Advice on using keywords to improve searchability",
+      "Strategies to increase profile views and recruiter engagement"
+    ],
     "price": 130,
     "dateTime": "12-12-24 1-2pm",
     "counselor": "Mark Williams",
@@ -90,6 +139,13 @@
     "serviceName": "Salary Negotiation Skills",
     "category": "offline",
     "briefDescription": "Learn how to negotiate your salary and benefits effectively.",
+    "fullDescription": "In this session, you'll learn the art of salary negotiation, focusing on strategies to advocate for your worth, secure better compensation packages, and handle difficult negotiations with confidence. This training will provide techniques to evaluate job offers, leverage your strengths, and navigate the negotiation process with ease.",
+    "features": [
+      "Techniques for negotiating salary and benefits",
+      "Strategies for handling counteroffers",
+      "Preparation tips for salary discussions",
+      "Ways to confidently advocate for your worth"
+    ],
     "price": 250,
     "dateTime": "13-12-24 5-7pm",
     "counselor": "Jessica Park",
@@ -102,9 +158,16 @@
     "serviceName": "Personal Branding Masterclass",
     "category": "online",
     "briefDescription": "Develop your unique professional brand to stand out in the job market.",
+    "fullDescription": "In this masterclass, you will learn how to create and communicate your personal brand effectively. From defining your unique strengths and values to using social media platforms strategically, you'll discover how to differentiate yourself in the competitive job market and establish a strong professional presence.",
+    "features": [
+      "Defining and refining your personal brand",
+      "Building your online presence on social media",
+      "Strategies for effective networking and self-promotion",
+      "Expert advice on standing out in a competitive job market"
+    ],
     "price": 400,
     "dateTime": "14-12-24 6-8pm",
     "counselor": "Daniel Smith",
-    "rating": 5.0
+    "rating": 5
   }
 ]
